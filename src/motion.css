@@ -1,0 +1,67 @@
+/* Motion only: dimensions, layout, typography and palette remain in styles.css. */
+:root{--motion-ease:cubic-bezier(.22,1,.36,1);--motion-fast:180ms;--motion-reveal:700ms}
+
+/* Content remains visible if observers or JavaScript are unavailable. */
+[data-reveal]{opacity:1;transform:none;transition:opacity var(--motion-reveal) var(--motion-ease) var(--delay,0ms),transform var(--motion-reveal) var(--motion-ease) var(--delay,0ms)}
+[data-reveal].motion-ready:not(.visible){opacity:0;transform:translate3d(0,18px,0)}
+[data-reveal="fade"].motion-ready:not(.visible){transform:none}
+[data-reveal="mask"]{overflow:hidden;clip-path:inset(0 0 0 0);transition:clip-path 850ms var(--motion-ease) var(--delay,0ms),opacity 600ms var(--motion-ease) var(--delay,0ms)}
+[data-reveal="mask"].motion-ready:not(.visible){transform:none;opacity:.35;clip-path:inset(0 0 12% 0)}
+[data-reveal].visible{opacity:1;transform:none}
+
+.hero{--hero-progress:0}
+.hero h1{transform:translate3d(0,calc(var(--hero-progress)*-26px),0);opacity:calc(1 - var(--hero-progress)*.45)}
+.hero-kicker,.hero-content>p,.hero-buttons{transform:translate3d(0,calc(var(--hero-progress)*-14px),0);opacity:calc(1 - var(--hero-progress)*.55)}
+.hero-visual .cinematic-media{transform:scale(calc(1 + var(--hero-progress)*.035))}
+.hero-image img{transform:none;will-change:auto}
+
+.cinematic-media{position:relative;width:100%;height:100%;overflow:hidden}
+.cinematic-media>img,.cinematic-media>video{display:block;width:100%;height:100%;object-fit:cover;object-position:inherit}
+.cinematic-media>video{position:absolute;inset:0;opacity:0;transition:opacity 550ms var(--motion-ease);pointer-events:none}
+.cinematic-media.video-ready>video{opacity:1}
+.hero-image-one .cinematic-media>img,.hero-image-one .cinematic-media>video{object-position:50% 35%}
+.hero-image-two .cinematic-media>img,.hero-image-two .cinematic-media>video{object-position:50% 35%}
+.campaign-photo{position:relative}
+.campaign-photo .cinematic-media>img,.campaign-photo .cinematic-media>video{object-position:50% 30%}
+.campaign-photo::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,transparent 65%,#0002);pointer-events:none}
+.video-motion-control{position:absolute;bottom:20px;left:20px;z-index:4;display:grid;place-items:center;width:44px;height:44px;border:1px solid #ffffff80;border-radius:50%;background:#191919c4;color:#fff;transition:transform var(--motion-fast) var(--motion-ease),background var(--motion-fast)}
+.video-motion-control:hover{background:#191919}.video-motion-control:active{transform:scale(.94)}
+
+[data-parallax] .cinematic-media,[data-parallax]>img{transform:translate3d(0,var(--parallax-y,0px),0) scale(1.04)}
+.story-motion .story-step{opacity:.88;transition:opacity 400ms var(--motion-ease)}
+.story-motion .story-step.story-active{opacity:1}
+.story-motion .story-step.story-past{opacity:.94}
+.story-step>span{transition:transform 400ms var(--motion-ease);display:inline-block}
+.story-motion .story-active>span{transform:translate3d(5px,0,0)}
+
+.button,.variant-options button,.collection-tabs a,.icon-button,.wishlist-button,.detail-wishlist{transition:transform var(--motion-fast) var(--motion-ease),background var(--motion-fast),color var(--motion-fast),border-color var(--motion-fast)}
+.button:active,.variant-options button:active,.collection-tabs a:active{transform:scale(.98)}
+.icon-button:active,.wishlist-button:active,.detail-wishlist:active{transform:scale(.94)}
+.icon-button svg,.wishlist-button svg,.detail-wishlist svg,.button svg{transition:transform 220ms var(--motion-ease)}
+.header-actions a[aria-label^="Open shopping bag"]:hover svg{transform:translate3d(0,-2px,0) rotate(-4deg)}
+.wishlist-button.is-saved svg{animation:wishlist-confirm 350ms var(--motion-ease)}
+.count{animation:count-confirm 250ms var(--motion-ease)}
+.desktop-nav a:after{transition:transform 220ms var(--motion-ease);transform-origin:left center}
+.product-image img,.category-card img{transition:transform 650ms var(--motion-ease)}
+.product-card:hover .product-image img{transform:scale(1.025)}
+.quick-add{transition:transform 250ms var(--motion-ease),background var(--motion-fast)}
+.quick-add:hover svg{transform:rotate(90deg);transition:transform 250ms var(--motion-ease)}
+.style-card img{transition:transform 650ms var(--motion-ease)}
+.style-card:hover img{transform:scale(1.012)}
+.text-link svg{transition:transform 220ms var(--motion-ease)}
+.text-link:hover svg{transform:rotate(90deg)}
+.text-link:has(.lucide-instagram):hover svg{transform:scale(1.06)}
+.toast:not(:empty){animation:toast-enter 220ms var(--motion-ease)}
+.dialog-backdrop{animation:backdrop-enter 180ms ease-out}
+.dialog{animation:dialog-enter 250ms var(--motion-ease)}
+.menu-dialog{animation:menu-enter 250ms var(--motion-ease)}
+
+@keyframes wishlist-confirm{0%{transform:scale(.85)}45%{transform:scale(1.15)}100%{transform:scale(1)}}
+@keyframes count-confirm{0%{transform:scale(.8)}100%{transform:scale(1)}}
+@keyframes toast-enter{from{opacity:0;transform:translate(-50%,8px)}to{opacity:1;transform:translate(-50%,0)}}
+@keyframes backdrop-enter{from{opacity:0}to{opacity:1}}
+@keyframes dialog-enter{from{opacity:0;transform:translate3d(0,10px,0)}to{opacity:1;transform:none}}
+@keyframes menu-enter{from{opacity:0;transform:translate3d(-12px,0,0)}to{opacity:1;transform:none}}
+@media(hover:hover){.button:hover{transform:translate3d(0,-1px,0)}.button:active{transform:scale(.98)}}
+@media(max-width:600px){.hero-image-one .cinematic-media>img,.hero-image-one .cinematic-media>video,.hero-image-two .cinematic-media>img,.hero-image-two .cinematic-media>video{object-position:50% 38%}.campaign-photo .cinematic-media>img,.campaign-photo .cinematic-media>video{object-position:center 24%}.story-step{opacity:1!important}.story-step>span{transform:none!important}.hero h1{transform:translate3d(0,calc(var(--hero-progress)*-18px),0)}.video-motion-control{bottom:16px;left:16px}}
+@media(prefers-reduced-motion:reduce){[data-reveal],[data-reveal].motion-ready:not(.visible){opacity:1;transform:none;clip-path:none}.hero h1,.hero-kicker,.hero-content>p,.hero-buttons,.hero-visual .cinematic-media,[data-parallax] .cinematic-media,[data-parallax]>img{transform:none!important;opacity:1!important}.story-motion .story-step{opacity:1}.cinematic-media>video{display:none}.video-motion-control{display:none}}

@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.sites-runtime/
+test-results/
+playwright-report/
+*.tar.gz
+qa/
+v1.zip

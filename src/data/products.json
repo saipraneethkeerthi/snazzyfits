@@ -1,0 +1,1425 @@
+[
+  {
+    "id": 3807,
+    "slug": "snazzy-unisex-combo",
+    "name": "Snazzy Unisex Combo",
+    "url": "https://snazzyfits.in/product/snazzy-unisex-combo/",
+    "image": "/images/product-3807.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-9.35.34-AM-2-e1791348166765.webp",
+    "price": 999,
+    "regularPrice": 1499,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Color",
+        "taxonomy": "pa_color",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 96,
+            "name": "beige-royal-blue",
+            "slug": "beige-royal-blue"
+          },
+          {
+            "id": 100,
+            "name": "Dark Grey- Grey",
+            "slug": "dark-grey-grey"
+          },
+          {
+            "id": 98,
+            "name": "White- Black",
+            "slug": "white-black"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Size's",
+        "taxonomy": "pa_sizes",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 103,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 102,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 104,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 105,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 101,
+        "name": "Combo category",
+        "slug": "combo-category",
+        "link": "https://snazzyfits.in/product-category/combo-category/"
+      }
+    ],
+    "description": "<h6>Featuring a relaxed, modern aesthetic, this versatile combo makes getting dressed simple without compromising on your look. Wear it as a complete coordinated outfit or style each piece separately with your existing wardrobe.</h6>\n<p>&nbsp;</p>\n<ul>\n<li>\n<h6>T-shirt + trousers combo</h6>\n</li>\n<li>\n<h6>Unisex design</h6>\n</li>\n<li>\n<h6>Comfortable and relaxed fit</h6>\n</li>\n<li>\n<h6>Soft and breathable fabric</h6>\n</li>\n</ul>",
+    "fetchedAt": "2026-10-07T05:13:37.257Z"
+  },
+  {
+    "id": 3792,
+    "slug": "snazzy-unisex-oversized-t-shirt-7",
+    "name": "Snazzy Unisex Oversized T-shirt",
+    "url": "https://snazzyfits.in/product/snazzy-unisex-oversized-t-shirt-7/",
+    "image": "/images/product-3792.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-13-at-8.57.57-AM-2.webp",
+    "price": 749,
+    "regularPrice": 999,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 70,
+        "name": "Unisex oversized category",
+        "slug": "unisex-oversized-category",
+        "link": "https://snazzyfits.in/product-category/activewear/unisex-oversized-category/"
+      }
+    ],
+    "description": "<h6>A wardrobe essential made for effortless styling. The Snazzy Unisex Oversized T-Shirt features a relaxed oversized fit that keeps your look comfortable, clean, and contemporary.</h6>",
+    "fetchedAt": "2026-10-07T05:13:36.676Z"
+  },
+  {
+    "id": 3719,
+    "slug": "snazzy-unisex-oversized-t-shirt-6",
+    "name": "Snazzy Unisex Oversized T-shirt",
+    "url": "https://snazzyfits.in/product/snazzy-unisex-oversized-t-shirt-6/",
+    "image": "/images/product-3719.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-2.10.43-AM.jpeg",
+    "price": 799,
+    "regularPrice": 999,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 95,
+        "name": "Unisex custom t-shirts",
+        "slug": "unisex-custom-t-shirts",
+        "link": "https://snazzyfits.in/product-category/unisex-custom-t-shirts/"
+      }
+    ],
+    "description": "<h6>From casual days to late-night plans, this versatile tee fits seamlessly into your wardrobe. Style it with baggy jeans, cargos, shorts, or layer it under your favorite jacket for a look that’s uniquely yours.</h6>",
+    "fetchedAt": "2026-10-07T05:13:37.621Z"
+  },
+  {
+    "id": 3713,
+    "slug": "snazzy-unisex-oversized-t-shirt-5",
+    "name": "Snazzy Unisex Oversized T-shirt",
+    "url": "https://snazzyfits.in/product/snazzy-unisex-oversized-t-shirt-5/",
+    "image": "/images/product-3713.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-2.10.43-AM-2.jpeg",
+    "price": 799,
+    "regularPrice": 999,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 95,
+        "name": "Unisex custom t-shirts",
+        "slug": "unisex-custom-t-shirts",
+        "link": "https://snazzyfits.in/product-category/unisex-custom-t-shirts/"
+      }
+    ],
+    "description": "<h6>Upgrade your everyday wardrobe with the Snazzy Unisex Oversized T-Shirt, designed for those who like their style relaxed, bold, and effortlessly cool. Featuring a modern oversized silhouette, this tee delivers a comfortable fit while keeping your streetwear game on point.</h6>",
+    "fetchedAt": "2026-10-07T05:13:37.668Z"
+  },
+  {
+    "id": 3701,
+    "slug": "snazzy-unisex-oversized-t-shirt-4",
+    "name": "Snazzy Unisex Oversized T-shirt",
+    "url": "https://snazzyfits.in/product/snazzy-unisex-oversized-t-shirt-4/",
+    "image": "/images/product-3701.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-2.10.44-AM-1.jpeg",
+    "price": 799,
+    "regularPrice": 999,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 95,
+        "name": "Unisex custom t-shirts",
+        "slug": "unisex-custom-t-shirts",
+        "link": "https://snazzyfits.in/product-category/unisex-custom-t-shirts/"
+      }
+    ],
+    "description": "<h6>From casual days to late-night plans, this versatile tee fits seamlessly into your wardrobe. Style it with baggy jeans, cargos, shorts, or layer it under your favorite jacket for a look that’s uniquely yours.</h6>",
+    "fetchedAt": "2026-10-07T05:13:37.445Z"
+  },
+  {
+    "id": 3692,
+    "slug": "snazzy-unisex-oversized-t-shirt-3",
+    "name": "Snazzy Unisex Oversized T-shirt",
+    "url": "https://snazzyfits.in/product/snazzy-unisex-oversized-t-shirt-3/",
+    "image": "/images/product-3692.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-2.10.42-AM-1.jpeg",
+    "price": 799,
+    "regularPrice": 999,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 95,
+        "name": "Unisex custom t-shirts",
+        "slug": "unisex-custom-t-shirts",
+        "link": "https://snazzyfits.in/product-category/unisex-custom-t-shirts/"
+      }
+    ],
+    "description": "<h6>Upgrade your everyday wardrobe with the Snazzy Unisex Oversized T-Shirt, designed for those who like their style relaxed, bold, and effortlessly cool. Featuring a modern oversized silhouette, this tee delivers a comfortable fit while keeping your streetwear game on point.</h6>",
+    "fetchedAt": "2026-10-07T05:13:37.561Z"
+  },
+  {
+    "id": 3679,
+    "slug": "snazzy-hanley-sleeves-t-shirts",
+    "name": "Snazzy Hanley Sleeves T-shirts",
+    "url": "https://snazzyfits.in/product/snazzy-hanley-sleeves-t-shirts/",
+    "image": "/images/product-3679.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-1.51.42-AM-3.jpeg",
+    "price": 799,
+    "regularPrice": 999,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 94,
+        "name": "MEN'S HENLEY",
+        "slug": "mens-henley",
+        "link": "https://snazzyfits.in/product-category/mens-henley/"
+      }
+    ],
+    "description": "<h5>The full sleeves add a refined touch while providing extra coverage, making it perfect for cooler days or a polished everyday look. Soft, breathable, and versatile, it’s designed to keep you comfortable from morning to night.</h5>",
+    "fetchedAt": "2026-10-07T05:13:37.515Z"
+  },
+  {
+    "id": 3661,
+    "slug": "snazzy-crop-tops",
+    "name": "Snazzy Crop Top’s",
+    "url": "https://snazzyfits.in/product/snazzy-crop-tops/",
+    "image": "/images/product-3661.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-27-at-7.36.16-AM-e1782526896892.jpeg",
+    "price": 399,
+    "regularPrice": 699,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Color",
+        "taxonomy": "pa_color",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 41,
+            "name": "Black",
+            "slug": "black"
+          },
+          {
+            "id": 49,
+            "name": "White",
+            "slug": "white"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 92,
+            "name": "XS",
+            "slug": "xs"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 93,
+        "name": "WOMEN",
+        "slug": "women",
+        "link": "https://snazzyfits.in/product-category/women/"
+      }
+    ],
+    "description": "<p>Featuring a flattering cropped fit and modern silhouette, it’s perfect for casual outings, coffee dates, vacations, college wear, or everyday streetwear looks. Pair it with your favorite jeans, cargos, shorts, or skirts to create endless stylish outfits.<img class=\"alignnone size-medium wp-image-3672\" src=\"https://snazzyfits.in/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-27-at-7.36.16-AM-2-200x300.jpeg\" alt=\"snazzy crop top&apos;s\" width=\"200\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-3676\" src=\"https://snazzyfits.in/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-27-at-7.36.15-AM-2-200x300.jpeg\" alt=\"snazzy crop top&apos;s\" width=\"200\" height=\"300\" /></p>",
+    "fetchedAt": "2026-10-07T05:13:37.496Z"
+  },
+  {
+    "id": 3625,
+    "slug": "snazzy-unisex-oversized-t-shirt-2",
+    "name": "Snazzy Unisex oversized t-shirt",
+    "url": "https://snazzyfits.in/product/snazzy-unisex-oversized-t-shirt-2/",
+    "image": "/images/product-3625.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-14-at-6.01.32-AM-1.jpeg",
+    "price": 799,
+    "regularPrice": 999,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 40,
+        "name": "Activewear",
+        "slug": "activewear",
+        "link": "https://snazzyfits.in/product-category/activewear/"
+      },
+      {
+        "id": 70,
+        "name": "Unisex oversized category",
+        "slug": "unisex-oversized-category",
+        "link": "https://snazzyfits.in/product-category/activewear/unisex-oversized-category/"
+      }
+    ],
+    "description": "<p>The oversized silhouette offers a modern, laid-back look that’s perfect for everyday wear. Whether you’re heading out with friends, styling a casual outfit, or making a streetwear statement, this versatile essential is designed to keep you looking fresh and feeling comfortable.</p>\n<p>Premium cotton fabric for maximum comfort<br />\nTrendy oversized fit for a relaxed look<br />\nUnisex design suitable for everyone</p>",
+    "fetchedAt": "2026-10-07T05:13:37.566Z"
+  },
+  {
+    "id": 3615,
+    "slug": "snazzy-unisex-collar-t-shirts",
+    "name": "Snazzy Unisex Collar T-shirts",
+    "url": "https://snazzyfits.in/product/snazzy-unisex-collar-t-shirts/",
+    "image": "/images/product-3615.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-10-at-5.53.07-AM.jpeg",
+    "price": 699,
+    "regularPrice": 799,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 89,
+        "name": "Unisex Collar T-shirt",
+        "slug": "unisex-collar-t-shirt",
+        "link": "https://snazzyfits.in/product-category/unisex-collar-t-shirt/"
+      }
+    ],
+    "description": "<p>Featuring a classic collar design and a comfortable fit, this t-shirt seamlessly transitions from casual outings to smart-casual settings. Designed for both men and women, it’s a timeless essential that pairs effortlessly with jeans, trousers, shorts, or skirt<img class=\"alignnone size-medium wp-image-3618\" src=\"https://snazzyfits.in/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-10-at-5.53.07-AM-225x300.jpeg\" alt=\"snazzy unisex collar t shirts\" width=\"225\" height=\"300\" /></p>",
+    "fetchedAt": "2026-10-07T05:13:37.392Z"
+  },
+  {
+    "id": 3510,
+    "slug": "snazzy-unisex-oversized-t-shirt",
+    "name": "Snazzy Unisex oversized t-shirt",
+    "url": "https://snazzyfits.in/product/snazzy-unisex-oversized-t-shirt/",
+    "image": "/images/product-3510.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-23-at-6.34.05-AM.jpeg",
+    "price": 799,
+    "regularPrice": 799,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 70,
+        "name": "Unisex oversized category",
+        "slug": "unisex-oversized-category",
+        "link": "https://snazzyfits.in/product-category/activewear/unisex-oversized-category/"
+      }
+    ],
+    "description": "<p>Step into effortless streetwear with the new Snazzy Oversized Tee. Designed to fit every vibe, every style, and every day. 🖤✨</p>",
+    "fetchedAt": "2026-10-07T05:13:37.587Z"
+  },
+  {
+    "id": 3500,
+    "slug": "snazzy-tote-bags",
+    "name": "Snazzy tote bags",
+    "url": "https://snazzyfits.in/product/snazzy-tote-bags/",
+    "image": "/images/product-3500.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.42.32-AM-1.jpeg",
+    "price": 399,
+    "regularPrice": 549,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "simple",
+    "attributes": [],
+    "categories": [
+      {
+        "id": 77,
+        "name": "women's Tote bags",
+        "slug": "womens-tote-bags",
+        "link": "https://snazzyfits.in/product-category/womens-tote-bags/"
+      }
+    ],
+    "description": "<p>Carry your vibe everywhere with our <strong data-start=\"167\" data-end=\"187\">Snazzy Tote Bags</strong>—where style meets everyday practicality. Designed for the modern, on-the-go lifestyle, these totes are perfect for college, shopping, travel, or casual outings.</p>\n<p><img class=\"alignnone size-medium wp-image-3501\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.42.32-AM-187x300.jpeg\" alt=\"snazzy tote bags\" width=\"187\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-3502\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.42.33-AM-1-225x300.jpeg\" alt=\"snazzy tote bags\" width=\"225\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-3503\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.42.32-AM-1-225x300.jpeg\" alt=\"snazzy tote bags\" width=\"225\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-3504\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.42.33-AM-225x300.jpeg\" alt=\"snazzy tote bags\" width=\"225\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-3505\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.42.31-AM-1-225x300.jpeg\" alt=\"snazzy tote bags\" width=\"225\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-3506\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.42.31-AM-2-225x300.jpeg\" alt=\"snazzy tote bags\" width=\"225\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-3507\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.42.31-AM-225x300.jpeg\" alt=\"snazzy tote bags\" width=\"225\" height=\"300\" /></p>",
+    "fetchedAt": "2026-10-07T05:13:37.436Z"
+  },
+  {
+    "id": 3492,
+    "slug": "snazzy-couples-oversized-t-shirts",
+    "name": "Snazzy couple’s oversized t-shirts",
+    "url": "https://snazzyfits.in/product/snazzy-couples-oversized-t-shirts/",
+    "image": "/images/product-3492.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-11.02.59-AM.jpeg",
+    "price": 799,
+    "regularPrice": 799,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Color",
+        "taxonomy": "pa_color",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 41,
+            "name": "Black",
+            "slug": "black"
+          },
+          {
+            "id": 73,
+            "name": "Brown",
+            "slug": "brown"
+          },
+          {
+            "id": 74,
+            "name": "Royal Blue",
+            "slug": "royal-blue"
+          },
+          {
+            "id": 49,
+            "name": "White",
+            "slug": "white"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 75,
+        "name": "couple's oversized t-shirts",
+        "slug": "couples-oversized-t-shirts",
+        "link": "https://snazzyfits.in/product-category/couples-oversized-t-shirts/"
+      }
+    ],
+    "description": "<p>Turn heads together with our <strong data-start=\"213\" data-end=\"251\">Snazzy Couple’s Oversized T-Shirts</strong>—made for pairs who love to match, vibe, and stand out. Designed with a modern streetwear aesthetic, these tees bring the perfect mix of comfort, style, and connection.<img class=\"alignnone size-medium wp-image-3494\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-11.02.59-AM-225x300.jpeg\" alt=\"snazzy couple&apos;s oversized t shirts\" width=\"225\" height=\"300\" /><img class=\"alignnone size-medium wp-image-3495\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-11.03.00-AM-225x300.jpeg\" alt=\"snazzy couple&apos;s oversized t shirts\" width=\"225\" height=\"300\" /><img class=\"alignnone size-medium wp-image-3490\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.48.21-AM-225x300.jpeg\" alt=\"auto draft\" width=\"225\" height=\"300\" /><img class=\"alignnone size-medium wp-image-3493\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-11.02.59-AM-1-225x300.jpeg\" alt=\"snazzy couple&apos;s oversized t shirts\" width=\"225\" height=\"300\" /></p>",
+    "fetchedAt": "2026-10-07T05:13:37.634Z"
+  },
+  {
+    "id": 3491,
+    "slug": "snazzy-oversized-t-shirts-2",
+    "name": "Snazzy unisex oversized t-shirt’s",
+    "url": "https://snazzyfits.in/product/snazzy-oversized-t-shirts-2/",
+    "image": "/images/product-3491.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.47.27-AM-4.jpeg",
+    "price": 799,
+    "regularPrice": 799,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 40,
+        "name": "Activewear",
+        "slug": "activewear",
+        "link": "https://snazzyfits.in/product-category/activewear/"
+      },
+      {
+        "id": 70,
+        "name": "Unisex oversized category",
+        "slug": "unisex-oversized-category",
+        "link": "https://snazzyfits.in/product-category/activewear/unisex-oversized-category/"
+      }
+    ],
+    "description": "<p>Upgrade your streetwear game with our <strong data-start=\"257\" data-end=\"286\">Snazzy Oversized T-Shirts</strong>, designed for those who love bold style and effortless comfort. Crafted with premium-quality cotton, these tees deliver a soft, breathable feel that keeps you comfortable all day long.<img class=\"alignnone size-medium wp-image-3453\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.47.28-AM-1-200x300.jpeg\" alt=\"whatsapp image 2026 04 14 at 2.47.28 am (1)\" width=\"200\" height=\"300\" /><img class=\"alignnone size-medium wp-image-3445\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.47.27-AM-4-200x300.jpeg\" alt=\"whatsapp image 2026 04 14 at 2.47.27 am (4)\" width=\"200\" height=\"300\" /></p>",
+    "fetchedAt": "2026-10-07T05:13:37.615Z"
+  },
+  {
+    "id": 3487,
+    "slug": "3487",
+    "name": "Snazzy unisex oversized t-shirt’s",
+    "url": "https://snazzyfits.in/product/3487/",
+    "image": "/images/product-3487.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.48.21-AM-2.jpeg",
+    "price": 799,
+    "regularPrice": 799,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 40,
+        "name": "Activewear",
+        "slug": "activewear",
+        "link": "https://snazzyfits.in/product-category/activewear/"
+      },
+      {
+        "id": 70,
+        "name": "Unisex oversized category",
+        "slug": "unisex-oversized-category",
+        "link": "https://snazzyfits.in/product-category/activewear/unisex-oversized-category/"
+      }
+    ],
+    "description": "<p>Upgrade your streetwear game with our <strong data-start=\"257\" data-end=\"286\">Snazzy Oversized T-Shirts</strong>, designed for those who love bold style and effortless comfort. Crafted with premium-quality cotton, these tees deliver a soft, breathable feel that keeps you comfortable all day long.<img class=\"alignnone size-medium wp-image-3469\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.44.15-AM-200x300.jpeg\" alt=\"whatsapp image 2026 04 14 at 2.44.15 am\" width=\"200\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-3488\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.48.21-AM-2-225x300.jpeg\" alt=\"auto draft\" width=\"225\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-3489\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-10.48.21-AM-1-225x300.jpeg\" alt=\"auto draft\" width=\"225\" height=\"300\" /></p>",
+    "fetchedAt": "2026-10-07T05:13:37.574Z"
+  },
+  {
+    "id": 3483,
+    "slug": "snazzy-oversized-t-shirts",
+    "name": "Snazzy unisex oversized t-shirt’s",
+    "url": "https://snazzyfits.in/product/snazzy-oversized-t-shirts/",
+    "image": "/images/product-3483.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.44.14-AM.jpeg",
+    "price": 799,
+    "regularPrice": 799,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 40,
+        "name": "Activewear",
+        "slug": "activewear",
+        "link": "https://snazzyfits.in/product-category/activewear/"
+      },
+      {
+        "id": 70,
+        "name": "Unisex oversized category",
+        "slug": "unisex-oversized-category",
+        "link": "https://snazzyfits.in/product-category/activewear/unisex-oversized-category/"
+      }
+    ],
+    "description": "<p>Upgrade your streetwear game with our <strong data-start=\"257\" data-end=\"286\">Snazzy Oversized T-Shirts</strong>, designed for those who love bold style and effortless comfort. Crafted with premium-quality cotton, these tees deliver a soft, breathable feel that keeps you comfortable all day long.<img class=\"alignnone size-medium wp-image-3484\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.44.13-AM-200x300.jpeg\" alt=\"snazzy oversized t shirts\" width=\"200\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-3485\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.44.14-AM-1-200x300.jpeg\" alt=\"snazzy oversized t shirts\" width=\"200\" height=\"300\" /> <img class=\"alignnone wp-image-3486 size-medium\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.44.14-AM-200x300.jpeg\" alt=\"snazzy oversized t shirts\" width=\"200\" height=\"300\" /></p>",
+    "fetchedAt": "2026-10-07T05:13:37.656Z"
+  },
+  {
+    "id": 3481,
+    "slug": "oversized-unisex-t-shirts-2",
+    "name": "Oversized Unisex T-shirts",
+    "url": "https://snazzyfits.in/product/oversized-unisex-t-shirts-2/",
+    "image": "/images/product-3481.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.47.27-AM.jpeg",
+    "price": 799,
+    "regularPrice": 799,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Color",
+        "taxonomy": "pa_color",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 41,
+            "name": "Black",
+            "slug": "black"
+          },
+          {
+            "id": 49,
+            "name": "White",
+            "slug": "white"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 40,
+        "name": "Activewear",
+        "slug": "activewear",
+        "link": "https://snazzyfits.in/product-category/activewear/"
+      },
+      {
+        "id": 70,
+        "name": "Unisex oversized category",
+        "slug": "unisex-oversized-category",
+        "link": "https://snazzyfits.in/product-category/activewear/unisex-oversized-category/"
+      }
+    ],
+    "description": "<p data-start=\"646\" data-end=\"898\">Level up your everyday style with our oversized unisex t-shirts – built for comfort, designed for everyone. Featuring a relaxed drop-shoulder fit and crafted from high-quality cotton, this tee delivers a laid-back streetwear vibe with a premium feel.</p>\n<p data-start=\"900\" data-end=\"1019\">From chill days to statement looks, it’s the perfect go-to piece that blends comfort, versatility, and effortless drip.<img class=\"alignnone size-medium wp-image-3443\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.47.27-AM-2-200x300.jpeg\" alt=\"whatsapp image 2026 04 14 at 2.47.27 am (2)\" width=\"200\" height=\"300\" /><img class=\"alignnone size-medium wp-image-3471\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.47.27-AM-200x300.jpeg\" alt=\"whatsapp image 2026 04 14 at 2.47.27 am\" width=\"200\" height=\"300\" /><img class=\"alignnone size-medium wp-image-3482\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.47.27-AM-1-200x300.jpeg\" alt=\"oversized unisex t shirts\" width=\"200\" height=\"300\" /><img class=\"alignnone size-medium wp-image-3447\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.50.38-AM-1-200x300.jpeg\" alt=\"whatsapp image 2026 04 14 at 2.50.38 am\" width=\"200\" height=\"300\" /></p>",
+    "fetchedAt": "2026-10-07T05:13:37.381Z"
+  },
+  {
+    "id": 3478,
+    "slug": "oversized-acid-wash-t-shirts",
+    "name": "Oversized Acid wash t-shirts",
+    "url": "https://snazzyfits.in/product/oversized-acid-wash-t-shirts/",
+    "image": "/images/product-3478.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.44.16-AM-1.jpeg",
+    "price": 799,
+    "regularPrice": 799,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 40,
+        "name": "Activewear",
+        "slug": "activewear",
+        "link": "https://snazzyfits.in/product-category/activewear/"
+      },
+      {
+        "id": 70,
+        "name": "Unisex oversized category",
+        "slug": "unisex-oversized-category",
+        "link": "https://snazzyfits.in/product-category/activewear/unisex-oversized-category/"
+      }
+    ],
+    "description": "<p data-start=\"210\" data-end=\"548\">Upgrade your streetwear game with this oversized acid wash t-shirt, designed for a bold yet effortless look. Crafted from premium cotton, it offers a soft, breathable feel with a relaxed oversized fit that ensures all-day comfort. The unique acid wash finish gives each piece a distinct vintage vibe, making every t-shirt one of a kind.</p>\n<p data-start=\"550\" data-end=\"655\">Perfect for casual outings, layering, or everyday wear, this tee blends comfort with modern street style.</p>\n<h5><img class=\"alignnone size-medium wp-image-3444\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.44.16-AM-1-200x300.jpeg\" alt=\"whatsapp image 2026 04 14 at 2.44.16 am (1)\" width=\"200\" height=\"300\" /><img class=\"alignnone size-medium wp-image-3468\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.44.15-AM-2-1-200x300.jpeg\" alt=\"whatsapp image 2026 04 14 at 2.44.15 am (2)\" width=\"200\" height=\"300\" /><img class=\"alignnone size-medium wp-image-3479\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.44.15-AM-1-200x300.jpeg\" alt=\"oversized acid wash t shirts\" width=\"200\" height=\"300\" /><img class=\"alignnone size-medium wp-image-3480\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-2.44.16-AM-200x300.jpeg\" alt=\"oversized acid wash t shirts\" width=\"200\" height=\"300\" /></h5>",
+    "fetchedAt": "2026-10-07T05:13:37.638Z"
+  },
+  {
+    "id": 3423,
+    "slug": "oversized-unisex-t-shirts",
+    "name": "Oversized unisex T-shirts",
+    "url": "https://snazzyfits.in/product/oversized-unisex-t-shirts/",
+    "image": "/images/product-3423.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-12-at-3.55.36-AM-2.jpeg",
+    "price": 799,
+    "regularPrice": 799,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 40,
+        "name": "Activewear",
+        "slug": "activewear",
+        "link": "https://snazzyfits.in/product-category/activewear/"
+      },
+      {
+        "id": 70,
+        "name": "Unisex oversized category",
+        "slug": "unisex-oversized-category",
+        "link": "https://snazzyfits.in/product-category/activewear/unisex-oversized-category/"
+      }
+    ],
+    "description": "<p>Elevate your everyday style with this premium brown oversize t-shirt, designed for a relaxed yet modern look. Crafted from soft, breathable fabric, it offers all-day comfort with a minimal, versatile aesthetic. Perfectly paired with light trousers, this unisex piece blends effortless street wear with a clean, contemporary vibe.</p>\n<p><img class=\"alignnone size-medium wp-image-3424\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-12-at-3.55.36-AM-2-200x300.jpeg\" alt=\"oversized unisex t shirts\" width=\"200\" height=\"300\" /></p>\n<p><img class=\"alignnone size-medium wp-image-3425\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-12-at-3.55.36-AM-5-200x300.jpeg\" alt=\"oversized unisex t shirts\" width=\"200\" height=\"300\" /></p>\n<p><img class=\"alignnone size-medium wp-image-3426\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-12-at-3.55.36-AM-4-200x300.jpeg\" alt=\"oversized unisex t shirts\" width=\"200\" height=\"300\" /></p>\n<h6><img class=\"alignnone size-medium wp-image-3427\" src=\"https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-12-at-3.55.36-AM-3-200x300.jpeg\" alt=\"oversized unisex t shirts\" width=\"200\" height=\"300\" /></h6>",
+    "fetchedAt": "2026-10-07T05:13:37.444Z"
+  },
+  {
+    "id": 3418,
+    "slug": "oversized-t-shirts",
+    "name": "Oversized T-shirts",
+    "url": "https://snazzyfits.in/product/oversized-t-shirts/",
+    "image": "/images/product-3418.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-12-at-3.55.35-AM-1.jpeg",
+    "price": 799,
+    "regularPrice": 799,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "variable",
+    "attributes": [
+      {
+        "id": 3,
+        "name": "Size",
+        "taxonomy": "pa_size",
+        "has_variations": true,
+        "terms": [
+          {
+            "id": 86,
+            "name": "L",
+            "slug": "l"
+          },
+          {
+            "id": 87,
+            "name": "M",
+            "slug": "m"
+          },
+          {
+            "id": 88,
+            "name": "S",
+            "slug": "s"
+          },
+          {
+            "id": 85,
+            "name": "XL",
+            "slug": "xl"
+          },
+          {
+            "id": 84,
+            "name": "XXL",
+            "slug": "xxl"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 40,
+        "name": "Activewear",
+        "slug": "activewear",
+        "link": "https://snazzyfits.in/product-category/activewear/"
+      },
+      {
+        "id": 70,
+        "name": "Unisex oversized category",
+        "slug": "unisex-oversized-category",
+        "link": "https://snazzyfits.in/product-category/activewear/unisex-oversized-category/"
+      }
+    ],
+    "description": "<h1></h1>\n<p>&nbsp;</p>",
+    "fetchedAt": "2026-10-07T05:13:37.393Z"
+  },
+  {
+    "id": 3302,
+    "slug": "womens-premium-hoodie-2",
+    "name": "Women’s Hoodie",
+    "url": "https://snazzyfits.in/product/womens-premium-hoodie-2/",
+    "image": "/images/product-3302.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2025/12/IMG_0788.jpg",
+    "price": 999,
+    "regularPrice": 1499,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "simple",
+    "attributes": [],
+    "categories": [
+      {
+        "id": 64,
+        "name": "women hoodie",
+        "slug": "women-hoodie",
+        "link": "https://snazzyfits.in/product-category/women-hoodie/"
+      }
+    ],
+    "description": "<p data-start=\"1091\" data-end=\"1206\"><strong data-start=\"1091\" data-end=\"1206\">A premium women’s hoodie crafted for comfort, style, and everyday wear. Perfect for casual looks in any season.</strong></p>",
+    "fetchedAt": "2026-10-07T05:13:37.317Z"
+  },
+  {
+    "id": 3295,
+    "slug": "unisex-premium-hoodie-6",
+    "name": "Unisex Hoodie",
+    "url": "https://snazzyfits.in/product/unisex-premium-hoodie-6/",
+    "image": "/images/product-3295.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-30-at-14.23.45-1.jpeg",
+    "price": 1199,
+    "regularPrice": 1199,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "simple",
+    "attributes": [],
+    "categories": [
+      {
+        "id": 66,
+        "name": "unisex hoodie",
+        "slug": "unisex-hoodie",
+        "link": "https://snazzyfits.in/product-category/unisex-hoodie/"
+      }
+    ],
+    "description": "<p>A premium unisex’s hoodie crafted for comfort, durability, and everyday style. Perfect for casual wear and layering in any season.</p>",
+    "fetchedAt": "2026-10-07T05:13:37.323Z"
+  },
+  {
+    "id": 3294,
+    "slug": "unisexs-premium-hoodie-5",
+    "name": "Unisex Hoodie",
+    "url": "https://snazzyfits.in/product/unisexs-premium-hoodie-5/",
+    "image": "/images/product-3294.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-27-at-21.37.37-1.jpeg",
+    "price": 999,
+    "regularPrice": 1499,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "simple",
+    "attributes": [],
+    "categories": [
+      {
+        "id": 66,
+        "name": "unisex hoodie",
+        "slug": "unisex-hoodie",
+        "link": "https://snazzyfits.in/product-category/unisex-hoodie/"
+      }
+    ],
+    "description": "<p>A premium unisex’s hoodie crafted for comfort, durability, and everyday style. Perfect for casual wear and layering in any season.</p>",
+    "fetchedAt": "2026-10-07T05:13:37.494Z"
+  },
+  {
+    "id": 3287,
+    "slug": "mens-premium-hoodie-4",
+    "name": "Men’s Hoodie",
+    "url": "https://snazzyfits.in/product/mens-premium-hoodie-4/",
+    "image": "/images/product-3287.webp",
+    "originalImage": "https://snazzyfits.in/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-27-at-21.37.36-3.jpeg",
+    "price": 1199,
+    "regularPrice": 1199,
+    "currency": "INR",
+    "rating": 0,
+    "reviewCount": 0,
+    "inStock": true,
+    "type": "simple",
+    "attributes": [],
+    "categories": [
+      {
+        "id": 65,
+        "name": "men hoodie",
+        "slug": "men-hoodie",
+        "link": "https://snazzyfits.in/product-category/men-hoodie/"
+      }
+    ],
+    "description": "<p data-start=\"1308\" data-end=\"1439\"><strong data-start=\"1308\" data-end=\"1439\">A premium men’s hoodie crafted for comfort, durability, and everyday style. Perfect for casual wear and layering in any season.</strong></p>",
+    "fetchedAt": "2026-10-07T05:13:37.499Z"
+  }
+]
